@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Levi Ochana!
+# 👋 Hi there, I'm Levi Ochana
 
 Welcome to my GitHub profile! I'm passionate about **DevOps** & **cloud infrastructure**, and creating scalable solutions with modern technologies.
 
